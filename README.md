@@ -50,29 +50,29 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge.
 
-- [X] 404 Page ___ [Demo](https://404-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/404-Not-Found)
+1. 404 Page ___ [Demo](https://404-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/404-Not-Found)
   > - intro to simple layouting and responsiveness  
-- [x] My Team Page ___ [Demo](https://myteam-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/MyTeam)
+2. My Team Page ___ [Demo](https://myteam-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/MyTeam)
   > - Responsive Image
   > - Styling spesific Elements using nth-child
-- [x] Interior Consultant Page ___ [Demo](https://interiorconsultant-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/interior-consultant)
+3. Interior Consultant Page ___ [Demo](https://interiorconsultant-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/interior-consultant)
   > - responsive navbar
   > - CSS position
-- [x] Recipe Page ___ [Demo](https://cheesecake-recipe-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/cheesecake-recipe)
+4. Recipe Page ___ [Demo](https://cheesecake-recipe-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/cheesecake-recipe)
   > - Responsive Typography Using Clamp
   > - Styling Checkbox
   > - Styling list
-- [x] My Gallery Page ___ [Demo](https://checkout-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/gallery-page)
+5. My Gallery Page ___ [Demo](https://checkout-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/gallery-page)
   > - Masonry Layout using CSS Grid
-- [x] Checkout Page ___ [Demo](https://404-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/checkout-page)
+6. Checkout Page ___ [Demo](https://404-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/checkout-page)
   > - Form Validation with HTML
   > - Styling input
-- [x] Edie Homepage ___ [Demo](https://ediehomepage-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/Edie-Homepage)
+7. Edie Homepage ___ [Demo](https://ediehomepage-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/Edie-Homepage)
   > - First Landing Page
   > - Responsive Navbar
   > - simple hover animation
   > - styling input
-- [x] Portofolio Page ___ [Demo](https://fdhlakbr.netlify.app/) | [More about the project](https://github.com/lil-bee/portofolio)
+8. Portofolio Page ___ [Demo](https://fdhlakbr.netlify.app/) | [More about the project](https://github.com/lil-bee/portofolio)
   > - build with theme in astro & tailwind by [Gxanshu](https://github.com/gxanshu/astro-decap-cms-starter)
 
 
