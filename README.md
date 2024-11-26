@@ -64,7 +64,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
   > - Styling list
 5. My Gallery Page ___ [Demo](https://checkout-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/gallery-page)
   > - Masonry Layout using CSS Grid
-6. Checkout Page ___ [Demo](https://404-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/checkout-page)
+6. Checkout Page ___ [Demo](https://checkout-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/checkout-page)
   > - Form Validation with HTML
   > - Styling input
 7. Edie Homepage ___ [Demo](https://ediehomepage-lilbee.netlify.app/) | [More about the project](https://github.com/lil-bee/Edie-Homepage)
